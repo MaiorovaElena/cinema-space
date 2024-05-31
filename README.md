@@ -102,7 +102,7 @@ Header представлен на всех страницах сайта и в�
     <a href="https://github.com/MarinaIatsuk">Marina</a> •
     <a href="https://github.com/fukuniji">Nat</a> •
     <a href="https://github.com/AlinaSun0201">Alina</a> •
-    <a href="https://github.com/Chuchundra009">Helen</a> •
+    <a href="https://github.com/MaiorovaElena">Helen</a> •
     <a href="https://github.com/Yanastya89">Anastasiia</a> •
     <a href="https://github.com/slastinatalia">Nataliia</a> •
     <a href="https://github.com/NikaAzizova">Nika</a>
